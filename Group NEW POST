@@ -1,0 +1,47 @@
+Samuil Konov:
+ 1.logo right bottom:
+    1.Xpath - //div[@class="col-6 col-lg-4 footer-container"]
+    2.CSS - div.col-6.col-lg-4.footer-container
+ 2.Version on the bottom left:
+    1.Xpath - //div[@class="col-5 col-lg-3 footer-container"]
+    2.CSS - div.col-5.col-lg-3.footer-container
+ 3.Search button:
+    1.Xpath - //i[@class="fas fa-search"]
+    2.CSS - i.fas.fa-search
+ 4.Iskillo logo:
+    1.Xpath -//img[@alt="homeIcon"]
+    2.CSS - #homeIcon
+
+Iliya Bebenov:
+ 1.
+    xpath: //li[contains(@class, "nav-item ng-star-inserted active")]'
+    xpath: //li[contains(@class, "nav-item ng-star-inserted active")]/a[@id = "nav-link-new-post"]'
+     css: "[class='nav-item ng-star-inserted active']"
+ 2.Search
+    xpath: '//input[@id = "search-bar"]'
+    css: '#search-bar'
+ 3.log out button
+     xpath: '//i[contains(@class, "fas fa-sign-out-alt fa-lg")]'
+    css: "[class='fas fa-sign-out-alt fa-lg']"
+ 4.Browse button
+     xpath: '//button[@id = "choose-file"]'
+     css: '#choose-file'
+
+Teodor Krastev:
+ 1.Submit button
+    xpath - //button[@class="btn btn-primary"]
+    css - #create-post
+
+ 2.Drop an Image here
+    xpath - //div[@class="uploadfilecontainer"]
+    css - .uploadfilecontainer
+
+ 3.Private/Public switch
+    xpath - //div/span[@class="custom-control custom-switch"]
+    css - [class="custom-control custom-switch"]
+
+ 4.Caption
+    xpath - //div/input[@class="form-control mb-4 ng-untouched ng-pristine ng-invalid"]
+    css - [class="form-control mb-4 ng-untouched ng-pristine ng-invalid"]
+
+Petar:
